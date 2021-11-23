@@ -1,5 +1,5 @@
-import type { LinksFunction } from "remix";
 import { Links, LiveReload, Outlet } from "remix";
+import type { LinksFunction } from "remix";
 
 import globalStylesUrl from "./styles/global.css";
 import globalMediumStylesUrl from "./styles/global-medium.css";

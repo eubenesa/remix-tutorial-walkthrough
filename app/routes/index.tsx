@@ -1,5 +1,5 @@
-import type { LinksFunction } from "remix";
 import { Link } from "remix";
+import type { LinksFunction } from "remix";
 import stylesUrl from "../styles/index.css";
 
 export let links: LinksFunction = () => {
